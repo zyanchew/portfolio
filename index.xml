@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zyanchew</title>
+    <link>https://zyanchew.github.io/portfolio/</link>
+    <description>Recent content on zyanchew</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 17:49:36 +0800</lastBuildDate>
+    <atom:link href="https://zyanchew.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master&#39;s Graduation Project</title>
+      <link>https://zyanchew.github.io/portfolio/projects/master_thesis/</link>
+      <pubDate>Sun, 18 May 2025 17:49:36 +0800</pubDate>
+      <guid>https://zyanchew.github.io/portfolio/projects/master_thesis/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;📍Title: Synthesizing Social Networks for Travel Behavior Models&lt;/p&gt;&#xA;&lt;p&gt;This research explores the use of &lt;em&gt;Bayesian Belief Networks (BBNs)&lt;/em&gt; to synthesize social networks and it&amp;rsquo;s strength for further integration into travel behavior models. The study focuses on understanding how socio-demographic factors and social relationships influence joint activity participation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;💡 Key Findings&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Individuals with larger networks of friends are more likely to engage in activities such as dining out.&lt;/li&gt;&#xA;&lt;li&gt;Those with more siblings in their networks tend to take family vacations more often.&lt;/li&gt;&#xA;&lt;li&gt;People are more likely to visit or host friends compared to colleagues.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;These findings highlight the importance of both the size and the nature of social relationships in shaping mobility behavior.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Human Mobility Challenge 2023</title>
+      <link>https://zyanchew.github.io/portfolio/projects/mobility_challenge/</link>
+      <pubDate>Sun, 18 May 2025 16:44:52 +0800</pubDate>
+      <guid>https://zyanchew.github.io/portfolio/projects/mobility_challenge/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;📍 Human Mobility Prediction Challenge 2023&lt;/p&gt;&#xA;&lt;p&gt;The challenge involved using a synthetic human mobility dataset to train a deep learning model for predicting future mobility trajectories. The tasks are divided into two scenarios, business-as-usual and under emergency.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;💡 Reflections&lt;/p&gt;&#xA;&lt;p&gt;Participating in the Human Mobility Predictions Challenge 2023 was a valuable learning experience.&lt;br&gt;&#xA;It allowed me to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Enhance my coding skills, particularly in Python and machine learning frameworks.&lt;/li&gt;&#xA;&lt;li&gt;Apply machine learning techniques to predict mobility trajectories in different scenarios.&lt;/li&gt;&#xA;&lt;li&gt;Deepen my understanding of neural network mechanisms and explore their theoretical underpinnings.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📈 Results&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Educational Background</title>
+      <link>https://zyanchew.github.io/portfolio/education/</link>
+      <pubDate>Sat, 17 May 2025 22:22:18 +0700</pubDate>
+      <guid>https://zyanchew.github.io/portfolio/education/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Sep 2022 – August 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;msc-architecture-building-and-planning&#34;&gt;MSc Architecture, Building and Planning&lt;/h3&gt;&#xA;&lt;p&gt;📍 Eindhoven University of Technology &lt;a href=&#34;https://www.tue.nl/en/&#34;&gt;(TU/e)&lt;/a&gt;, The Netherlands&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Exchange Semester at the National University of Singapore &lt;a href=&#34;https://nus.edu.sg&#34;&gt;(NUS)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Sep 2018 – June 2022&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;bsc-civil-engineering&#34;&gt;BSc Civil Engineering&lt;/h3&gt;&#xA;&lt;p&gt;📍 Tsinghua University &lt;a href=&#34;https://www.tsinghua.edu.cn/en/&#34;&gt;(THU)&lt;/a&gt;, Beijing, China&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Bachelor&#39;s Graduation Project</title>
+      <link>https://zyanchew.github.io/portfolio/projects/undergraduate_thesis/</link>
+      <pubDate>Sat, 17 May 2025 13:33:43 +0700</pubDate>
+      <guid>https://zyanchew.github.io/portfolio/projects/undergraduate_thesis/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;📍Title: Dynamic Accessibility Measurement Using Human Mobility Big Data&lt;/p&gt;&#xA;&lt;p&gt;This project was conducted as part of my bachelor&amp;rsquo;s graduation thesis, focusing on analyzing human mobility data to evaluate accessibility changes during extreme events. By examining mobility patterns before, during, and after a hurricane, this study aims to reveal community resilience and recovery trends.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;📌 Key Takeaway&lt;br&gt;&#xA;&lt;em&gt;This study demonstrates how mobility data and data-driven approaches can offer valuable insights into infrastructure resilience and inform disaster preparedness strategies.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>✨ About Me ✨</title>
+      <link>https://zyanchew.github.io/portfolio/about/</link>
+      <pubDate>Sat, 17 May 2025 13:23:12 +0700</pubDate>
+      <guid>https://zyanchew.github.io/portfolio/about/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Zhi Yan Chew&lt;/strong&gt;. A girl from Malaysia🇲🇾, on my way to becoming a global citizen🌍.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I&amp;rsquo;m passionate about sustainable urban mobility, resilient transportation networks, and data-driven planning. I hold a Bachelor&amp;rsquo;s degree in Civil Engineering from Tsinghua University and a Master&amp;rsquo;s degree in Architecture, Building, and Planning from Eindhoven University of Technology.&lt;/p&gt;&#xA;&lt;p&gt;My academic journey has taken me across disciplines and countries, shaping a global perspective and equipping me with &lt;strong&gt;a diverse toolkit of computational and analytical methods&lt;/strong&gt;. I have researched topics spanning urban mobility, travel behavior, and social networks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
